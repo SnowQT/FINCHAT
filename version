@@ -2,4 +2,6 @@ Version=400
 Patch=5
 Updater=03
 %UPDATE%
-Added Countdown tool.
+Added tools tab > countdown and future misc tools will be in there.
+Added Lowrider mod > sync could be an issue for now.
+UI rework will come soon.

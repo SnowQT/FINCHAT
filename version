@@ -1,7 +1,9 @@
-Version=400
-Patch=5
+Version=401
+Patch=0
 Updater=03
 %UPDATE%
-Added tools tab > countdown and future misc tools will be in there.
-Added Lowrider mod > sync could be an issue for now.
-UI rework will come soon.
+Added Keybind [END] to send a countdown to all ready players.
+Added Abillity to select who you want to send the countdown to.
+Menu will now close once you start/choose countdown start if READY.
+Added visual delay before countdown start.
+UI rework (padding ect).

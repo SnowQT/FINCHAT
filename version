@@ -1,9 +1,5 @@
-Version=401
+Version=104
 Patch=0
 Updater=03
 %UPDATE%
-Added Keybind [END] to send a countdown to all ready players.
-Added Abillity to select who you want to send the countdown to.
-Menu will now close once you start/choose countdown start if READY.
-Added visual delay before countdown start.
-UI rework (padding ect).
+
